@@ -36,7 +36,6 @@ The data has been pre-split into:
 - **Training set:** ~204,000 observations
 - **Test set:** ~68,000 observations
 
-For more information on variables, refer to the `codebook.txt` (not included here but recommended to add if available).
 
 ---
 
