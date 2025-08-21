@@ -59,10 +59,4 @@ For more information on variables, refer to the `codebook.txt` (not included her
 
 ---
 
-## 🚀 Getting Started
 
-To reproduce the results:
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/chicago-housing-prediction.git
