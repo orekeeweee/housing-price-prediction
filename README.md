@@ -1,4 +1,4 @@
-# Chicago Housing Price Prediction
+# Chicago Cook County Housing Price Prediction
 
 ## 📌 Overview
 
